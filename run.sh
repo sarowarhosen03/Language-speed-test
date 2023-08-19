@@ -1,5 +1,5 @@
-echo "Compiling  c, cpp, rust, go , java"
-go build go2.go && javac  Main.java && g++ -o cpp cpp.cpp && gcc -o c hi.c && rustc rust.rs 
+echo "Compiling  c, cpp, rust, go "
+go build go2.go  && g++ -o cpp cpp.cpp && gcc -o c hi.c && rustc rust.rs 
 echo "-----------------"
 echo "Running Program's"	
 echo "-----------------"
