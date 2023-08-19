@@ -1,11 +1,5 @@
-.clj-kondo
-.lsp
-.vscode
-.idea
-results/*.csv
-results/*.png
-results/*.json
-leibniz
-src/cs/obj/Debug
-*.o
-*.hi
+c
+cpp
+rust
+go2
+Main.class
