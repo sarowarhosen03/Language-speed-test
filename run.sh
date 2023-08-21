@@ -22,3 +22,5 @@ echo "-----------------"
 swift main.swift
 echo "-----------------"
 kotlin Main.jar
+echo "-----------------"
+ruby main.rb
