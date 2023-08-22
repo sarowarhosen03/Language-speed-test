@@ -24,3 +24,5 @@ echo "-----------------"
 kotlin Main.jar
 echo "-----------------"
 ruby main.rb
+echo "-----------------"
+dart main.dart
